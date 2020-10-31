@@ -1,3 +1,3 @@
 # testrepo
 
-Ta cierna stena, ma zasa byt biela
+Ta biela stena, ma zasa byt cierna
