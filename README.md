@@ -1,3 +1,3 @@
 # testrepo
 
-ta totot
+Ta biela stena, ma zasa byt cierna
