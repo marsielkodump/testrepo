@@ -1,3 +1,2 @@
 # testrepo
-
-Ta biela stena, ma zasa byt cierna
+no a takto to ma byyt
